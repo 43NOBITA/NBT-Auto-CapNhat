@@ -54,5 +54,13 @@
     "sha256": "26638cdc5166c2533469809656bd556d49ca8bc4ea8fce65d61d19835456e40f",
     "size": 106011105,
     "noi_dung": "-19/11/2026: Cập nhật phiên bản v3.2.5\n  - NÚT CẬP NHẬT: dưới nút \"Chạy tool\" có ô báo trạng thái + nút cập nhật. Mở giao diện là tự kiểm tra bản mới trên server;\n    có bản mới thì nút chuyển ĐỎ \"Cập nhật\" kèm nội dung thay đổi — bấm là tự tải bộ cài, kiểm file, cài đè vào thư mục cũ\n    (giữ nguyên cài đặt phím; Windows hỏi quyền thì bấm Yes) rồi tự mở lại giao diện. Mất mạng: tool vẫn dùng bình thường.\n    Từ bản này trở đi không cần cài tay nữa.\n  - CHỌN NHÂN VẬT: giao diện có khung \"Chọn nhân vật\" liệt kê các cửa sổ game đang mở (tên nhân vật, bản đồ, cỡ cửa sổ),\n    tự làm mới mỗi 2 giây. Tick 1 nhân vật rồi bấm \"Chạy tool\": tool đưa cửa sổ đó lên và CHỈ chạy trên cửa sổ đó —\n    mở 2 acc thì bấm phím ở acc kia không ra đòn. Lần sau mở giao diện tự tick lại nhân vật cũ. Chỉ mở 1 game: như cũ."
+  },
+  "DM": {
+    "ver": "3.2.2",
+    "ngay": "19/11/2026",
+    "url": "https://github.com/43NOBITA/NBT-Auto-CapNhat/releases/download/DM-v3.2.2/Setup_DM_Pro_v3.2.2.exe",
+    "sha256": "c824ed1bd650cddfcfa5534494e95d72e2fbca804e32f9079c43a79d7cd34088",
+    "size": 102807433,
+    "noi_dung": "-19/11/2026: Cập nhật phiên bản v3.2.2\n  - NÚT CẬP NHẬT: dưới nút \"Chạy tool\" có ô báo trạng thái + nút cập nhật. Mở giao diện là tự kiểm tra bản mới trên server;\n    có bản mới thì nút chuyển ĐỎ \"Cập nhật\" kèm nội dung thay đổi — bấm là tự tải bộ cài, kiểm file, cài đè vào thư mục cũ\n    (giữ nguyên cài đặt phím; Windows hỏi quyền thì bấm Yes) rồi tự mở lại giao diện. Mất mạng: tool vẫn dùng bình thường.\n    Từ bản này trở đi không cần cài tay nữa.\n  - CHỌN NHÂN VẬT: giao diện có khung \"Chọn nhân vật\" liệt kê các cửa sổ game đang mở (tên nhân vật, bản đồ, cỡ cửa sổ),\n    tự làm mới mỗi 2 giây. Tick 1 nhân vật rồi bấm \"Chạy tool\": tool đưa cửa sổ đó lên và CHỈ chạy trên cửa sổ đó —\n    mở 2 acc thì bấm phím ở acc kia không ra đòn. Lần sau mở giao diện tự tick lại nhân vật cũ. Chỉ mở 1 game: như cũ."
   }
 }
