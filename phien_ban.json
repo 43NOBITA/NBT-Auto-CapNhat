@@ -14,5 +14,13 @@
     "sha256": "09be548a14b9ef5a032ffe16497c5b5336d43a6b7ab512481cfc5c72284bbc9c",
     "size": 105281177,
     "noi_dung": "-19/11/2026: Cập nhật phiên bản v4.3.3\n  - NÚT CẬP NHẬT: dưới nút \"Chạy tool\" có ô báo trạng thái + nút cập nhật. Mở giao diện là tự kiểm tra bản mới trên server;\n    có bản mới thì nút chuyển ĐỎ \"Cập nhật\" kèm nội dung thay đổi — bấm là tự tải bộ cài, kiểm file, cài đè vào thư mục cũ\n    (giữ nguyên cài đặt phím; Windows hỏi quyền thì bấm Yes) rồi tự mở lại giao diện. Mất mạng: tool vẫn dùng bình thường.\n    Từ bản này trở đi không cần cài tay nữa.\n  - CHỌN NHÂN VẬT: giao diện có khung \"Chọn nhân vật\" liệt kê các cửa sổ game đang mở (tên nhân vật, bản đồ, cỡ cửa sổ),\n    tự làm mới mỗi 2 giây. Tick 1 nhân vật rồi bấm \"Chạy tool\": tool đưa cửa sổ đó lên và CHỈ chạy trên cửa sổ đó —\n    mở 2 acc thì bấm phím ở acc kia không ra đòn. Lần sau mở giao diện tự tick lại nhân vật cũ. Chỉ mở 1 game: như cũ.\n    Cửa sổ game khác độ phân giải bản TOOL đang chọn thì giao diện hỏi lại trước khi chạy."
+  },
+  "TVT": {
+    "ver": "5.2.4",
+    "ngay": "19/11/2026",
+    "url": "https://github.com/43NOBITA/NBT-Auto-CapNhat/releases/download/TVT-v5.2.4/Setup_TVT_Pro_v5.2.4.exe",
+    "sha256": "6c61a6ae9b94f86bacfc407fa15c87073dc9a244a5cc455052030a7f65b22f31",
+    "size": 105296094,
+    "noi_dung": "-19/11/2026: Cập nhật phiên bản v5.2.4\n  - NÚT CẬP NHẬT: dưới nút \"Chạy tool\" có ô báo trạng thái + nút cập nhật. Mở giao diện là tự kiểm tra bản mới trên server;\n    có bản mới thì nút chuyển ĐỎ \"Cập nhật\" kèm nội dung thay đổi — bấm là tự tải bộ cài, kiểm file, cài đè vào thư mục cũ\n    (giữ nguyên cài đặt phím; Windows hỏi quyền thì bấm Yes) rồi tự mở lại giao diện. Mất mạng: tool vẫn dùng bình thường.\n    Từ bản này trở đi không cần cài tay nữa.\n  - CHỌN NHÂN VẬT: giao diện có khung \"Chọn nhân vật\" liệt kê các cửa sổ game đang mở (tên nhân vật, bản đồ, cỡ cửa sổ),\n    tự làm mới mỗi 2 giây. Tick 1 nhân vật rồi bấm \"Chạy tool\": tool đưa cửa sổ đó lên và CHỈ chạy trên cửa sổ đó —\n    mở 2 acc thì bấm phím ở acc kia không ra đòn. Lần sau mở giao diện tự tick lại nhân vật cũ. Chỉ mở 1 game: như cũ.\n    Cửa sổ game khác độ phân giải bản TOOL đang chọn thì giao diện hỏi lại trước khi chạy."
   }
 }
