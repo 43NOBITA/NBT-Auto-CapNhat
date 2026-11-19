@@ -8,12 +8,12 @@
     "noi_dung": "-19/11/2026: Cập nhật phiên bản v13.3.9\n  - CẬP NHẬT QUA MÁY CHỦ RIÊNG: nút Cập nhật nay hỏi máy chủ của NBT-Auto; máy chủ kiểm máy có key (ổ cứng + tên máy) rồi mới\n    báo bản mới và cho tải — bộ cài không còn để công khai. Máy chưa được cấp quyền: ô báo \"chưa được cấp quyền\", liên hệ Zalo.\n    Cách dùng không đổi: có bản mới thì nút ĐỎ \"Cập nhật\", bấm là tự tải, cài đè (giữ cài đặt phím) rồi tự mở lại."
   },
   "TVD": {
-    "ver": "4.3.3",
+    "ver": "4.3.4",
     "ngay": "19/11/2026",
-    "url": "https://github.com/43NOBITA/NBT-Auto-CapNhat/releases/download/TVD-v4.3.3/Setup_TVD_Pro_v4.3.3.exe",
-    "sha256": "09be548a14b9ef5a032ffe16497c5b5336d43a6b7ab512481cfc5c72284bbc9c",
-    "size": 105281177,
-    "noi_dung": "-19/11/2026: Cập nhật phiên bản v4.3.3\n  - NÚT CẬP NHẬT: dưới nút \"Chạy tool\" có ô báo trạng thái + nút cập nhật. Mở giao diện là tự kiểm tra bản mới trên server;\n    có bản mới thì nút chuyển ĐỎ \"Cập nhật\" kèm nội dung thay đổi — bấm là tự tải bộ cài, kiểm file, cài đè vào thư mục cũ\n    (giữ nguyên cài đặt phím; Windows hỏi quyền thì bấm Yes) rồi tự mở lại giao diện. Mất mạng: tool vẫn dùng bình thường.\n    Từ bản này trở đi không cần cài tay nữa.\n  - CHỌN NHÂN VẬT: giao diện có khung \"Chọn nhân vật\" liệt kê các cửa sổ game đang mở (tên nhân vật, bản đồ, cỡ cửa sổ),\n    tự làm mới mỗi 2 giây. Tick 1 nhân vật rồi bấm \"Chạy tool\": tool đưa cửa sổ đó lên và CHỈ chạy trên cửa sổ đó —\n    mở 2 acc thì bấm phím ở acc kia không ra đòn. Lần sau mở giao diện tự tick lại nhân vật cũ. Chỉ mở 1 game: như cũ.\n    Cửa sổ game khác độ phân giải bản TOOL đang chọn thì giao diện hỏi lại trước khi chạy."
+    "url": "https://github.com/43NOBITA/NBT-Auto-CapNhat/releases/download/TVD-v4.3.4/Setup_TVD_Pro_v4.3.4.exe",
+    "sha256": "e1bba52cc1e342369f75b9499ecc8b186e33dd1ac2da383ab1d034d640d93976",
+    "size": 105275475,
+    "noi_dung": "-19/11/2026: Cập nhật phiên bản v4.3.4\n  - CẬP NHẬT QUA MÁY CHỦ RIÊNG: nút Cập nhật nay hỏi máy chủ của NBT-Auto; máy chủ kiểm máy có key (ổ cứng + tên máy) rồi mới\n    báo bản mới và cho tải — bộ cài không còn để công khai. Máy chưa được cấp quyền: ô báo \"chưa được cấp quyền\", liên hệ Zalo.\n    Cách dùng không đổi: có bản mới thì nút ĐỎ \"Cập nhật\", bấm là tự tải, cài đè (giữ cài đặt phím) rồi tự mở lại."
   },
   "TVT": {
     "ver": "5.2.4",
