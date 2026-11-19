@@ -1,11 +1,11 @@
 {
   "TVC": {
-    "ver": "13.3.8",
+    "ver": "13.3.9",
     "ngay": "19/11/2026",
-    "url": "https://github.com/43NOBITA/NBT-Auto-CapNhat/releases/download/TVC-v13.3.8/Setup_TVC_Pro_v13.3.8.exe",
-    "sha256": "b462e8702895e7060497f53b4947e77f3d5ef62e7c3beb133dfafc8ab651d1d8",
-    "size": 102980276,
-    "noi_dung": "-19/11/2026: Cập nhật phiên bản v13.3.8\n  - CHỌN NHÂN VẬT: giao diện có khung \"Chọn nhân vật\" liệt kê các cửa sổ game đang mở (tên nhân vật, bản đồ, cỡ cửa sổ),\n    tự làm mới mỗi 2 giây. Tick 1 nhân vật rồi bấm \"Chạy tool\": tool đưa cửa sổ đó lên và CHỈ chạy trên cửa sổ đó —\n    mở 2 acc thì bấm phím ở acc kia không ra đòn. Lần sau mở giao diện tự tick lại nhân vật cũ. Chỉ mở 1 game: như cũ.\n    Cửa sổ game khác độ phân giải bản TOOL đang chọn thì giao diện hỏi lại trước khi chạy."
+    "url": "https://github.com/43NOBITA/NBT-Auto-CapNhat/releases/download/TVC-v13.3.9/Setup_TVC_Pro_v13.3.9.exe",
+    "sha256": "834f9e0e4a59b6bdc9044d050a3f63f18d31af364ba2fec466c955a01320137b",
+    "size": 102981087,
+    "noi_dung": "-19/11/2026: Cập nhật phiên bản v13.3.9\n  - CẬP NHẬT QUA MÁY CHỦ RIÊNG: nút Cập nhật nay hỏi máy chủ của NBT-Auto; máy chủ kiểm máy có key (ổ cứng + tên máy) rồi mới\n    báo bản mới và cho tải — bộ cài không còn để công khai. Máy chưa được cấp quyền: ô báo \"chưa được cấp quyền\", liên hệ Zalo.\n    Cách dùng không đổi: có bản mới thì nút ĐỎ \"Cập nhật\", bấm là tự tải, cài đè (giữ cài đặt phím) rồi tự mở lại."
   },
   "TVD": {
     "ver": "4.3.3",
