@@ -32,12 +32,12 @@
     "noi_dung": "-21/11/2026: Cập nhật phiên bản v7.0.1\n  - TỰ ĐÁNH TÌM ĐỐI THỦ THEO PHẠM VI: tick \"Phạm vi tìm đối thủ\" N đv -> tool quét và đánh người trong N đv, KỂ CẢ người ngoài màn hình\n    (tự chạy tới bằng nhấp chuột ở mép cửa sổ đúng hướng, tới khoảng \"Tiếp cận\" rồi đánh); không tick -> chỉ người trên màn hình.\n  - ĐIỂM ĐÁNH KHI 9X THÔNG MINH TẮT: đối thủ trong tầm chiêu -> đánh vào người; ngoài tầm: tick \"Tiếp cận\" -> đánh điểm GIỮA mình–đối thủ,\n    không tick -> đánh điểm XA NHẤT của chiêu trên đường thẳng tới đối thủ. 9x Thông minh bật -> Tự Đánh đánh như giữ phím 9x.\n  - OVERLAY: hiện chữ tên / khoảng cách đối thủ đang ở NGOÀI màn hình.\n  - KHUNG CHI TIẾT xếp lại; \"Oval Phạm Vi\" đổi tên thành \"RADAR CHIÊU THỨC\" (vòng đỏ = tầm chiêu tay trái), thêm ô Bật / Tắt Radar ngay trên Tự Đánh.\n  - NÂNG CHUỘT 10 px CHỈ KHI ĐÁNH VÀO NGƯỜI đối thủ (để trúng người, như 9x); điểm giữa / điểm xa nhất / sát mép cửa sổ không nâng,\n    và mọi phép so tầm tính từ vị trí THẬT của đối thủ (không tính điểm đã nâng)."
   },
   "TLD": {
-    "ver": "6.2.5",
-    "ngay": "19/11/2026",
-    "url": "https://github.com/43NOBITA/NBT-Auto-CapNhat/releases/download/TLD-v6.2.5/Setup_TLD_Pro_v6.2.5.exe",
-    "sha256": "cc220e00dfc88de5952f4a5e5171869fea33f499b800153c0c87f83a777a74b2",
-    "size": 105044981,
-    "noi_dung": "-19/11/2026: Cập nhật phiên bản v6.2.5\n  - CẬP NHẬT QUA MÁY CHỦ RIÊNG: nút Cập nhật nay hỏi máy chủ của NBT-Auto; máy chủ kiểm máy có key (ổ cứng + tên máy) rồi mới\n    báo bản mới và cho tải — bộ cài không còn để công khai. Máy chưa được cấp quyền: ô báo \"chưa được cấp quyền\", liên hệ Zalo.\n    Cách dùng không đổi: có bản mới thì nút ĐỎ \"Cập nhật\", bấm là tự tải, cài đè (giữ cài đặt phím) rồi tự mở lại."
+    "ver": "7.0.1",
+    "ngay": "21/11/2026",
+    "url": "https://github.com/43NOBITA/NBT-Auto-CapNhat/releases/download/TLD-v7.0.1/Setup_TLD_Pro_v7.0.1.exe",
+    "sha256": "8d58379d1a8c16869364467952e50c7844d3a7bc527f3b3a68feff7fd772575f",
+    "size": 105049449,
+    "noi_dung": "-21/11/2026: Cập nhật phiên bản v7.0.1\n  - TỰ ĐÁNH TÌM ĐỐI THỦ THEO PHẠM VI: tick \"Phạm vi tìm đối thủ\" N đv -> tool quét và đánh người trong N đv, KỂ CẢ người ngoài màn hình\n    (tự chạy tới bằng nhấp chuột ở mép cửa sổ đúng hướng, tới khoảng \"Tiếp cận\" rồi đánh); không tick -> chỉ người trên màn hình.\n  - ĐIỂM ĐÁNH KHI 9X THÔNG MINH TẮT: đối thủ trong tầm chiêu -> đánh vào người; ngoài tầm: tick \"Tiếp cận\" -> đánh điểm GIỮA mình–đối thủ,\n    không tick -> đánh điểm XA NHẤT của chiêu trên đường thẳng tới đối thủ. 9x Thông minh bật -> Tự Đánh đánh như giữ phím 9x.\n  - OVERLAY: hiện chữ tên / khoảng cách đối thủ đang ở NGOÀI màn hình.\n  - KHUNG CHI TIẾT xếp lại; \"Oval Phạm Vi\" đổi tên thành \"RADAR CHIÊU THỨC\" (vòng đỏ = tầm chiêu tay trái), thêm ô Bật / Tắt Radar ngay trên Tự Đánh.\n  - NÂNG CHUỘT 10 px CHỈ KHI ĐÁNH VÀO NGƯỜI đối thủ (để trúng người, như 9x); điểm giữa / điểm xa nhất / sát mép cửa sổ không nâng,\n    và mọi phép so tầm tính từ vị trí THẬT của đối thủ (không tính điểm đã nâng)."
   },
   "CLD": {
     "ver": "2.2.6",
